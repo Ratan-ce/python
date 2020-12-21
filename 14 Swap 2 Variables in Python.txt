@@ -19,7 +19,6 @@ class TopTen:
         else:
             raise StopIteration
 
-
 values = TopTen()
 
 print(next(values))
